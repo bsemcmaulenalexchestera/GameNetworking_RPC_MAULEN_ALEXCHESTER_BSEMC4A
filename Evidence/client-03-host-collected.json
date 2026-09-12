@@ -1,0 +1,30 @@
+{
+    "role": "client",
+    "stage": "03-host-collected",
+    "utc": "2026-09-12T05:06:49.7841875Z",
+    "connected": true,
+    "host": false,
+    "crystals": 14,
+    "players": [
+        {
+            "id": 0,
+            "owner": false,
+            "score": 25,
+            "position": {
+                "x": -7.0,
+                "y": 1.0,
+                "z": -2.3050026893615724
+            }
+        },
+        {
+            "id": 1,
+            "owner": true,
+            "score": 0,
+            "position": {
+                "x": -3.0,
+                "y": 1.0,
+                "z": -6.0
+            }
+        }
+    ]
+}

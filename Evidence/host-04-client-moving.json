@@ -1,0 +1,30 @@
+{
+    "role": "host",
+    "stage": "04-client-moving",
+    "utc": "2026-09-12T05:06:53.0848891Z",
+    "connected": true,
+    "host": true,
+    "crystals": 14,
+    "players": [
+        {
+            "id": 0,
+            "owner": true,
+            "score": 25,
+            "position": {
+                "x": -7.0,
+                "y": 1.0,
+                "z": -2.3000035285949709
+            }
+        },
+        {
+            "id": 1,
+            "owner": false,
+            "score": 0,
+            "position": {
+                "x": -3.0,
+                "y": 1.0,
+                "z": -4.500001430511475
+            }
+        }
+    ]
+}

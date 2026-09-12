@@ -164,6 +164,10 @@ Packages/packages-lock.json linguist-generated
 *.reason                lfs
 *.rns                   lfs
 
+# Small assignment evidence and original text mesh can be viewed directly on GitHub.
+Evidence/*.png          -filter -diff -merge -text
+Assets/CrystalRush/Crystal.obj -filter -diff -merge text
+
 # Spine export file for Unity
 *.skel.bytes            lfs
 
